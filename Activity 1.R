@@ -44,11 +44,14 @@ Elevation_meters = Elevation_ft * .3048
 
 # Homework question 2
 # Running code in the console results in immediate execution of the line of code and while R runs
-# the code, the commands are not inherently saved, meaning you can't track changes, no collaboration
-# features, and commit practices adherent to version control features.
+# the code, the commands are not inherently saved, meaning you can't track changes which inhibits collaboration
+# features and commit practices. As such, running code in the console does not follow version control features.
 
 # Homework question 3
 longest_round_trip = max(Round_trip_length_mi)
+
+# Homework question 4
+# https://github.com/Wilson5060/E325_a1.git
 
 
 
